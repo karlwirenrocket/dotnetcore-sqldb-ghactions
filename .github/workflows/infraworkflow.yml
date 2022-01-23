@@ -1,4 +1,4 @@
-name: Create Azure Resources
+name: Create Azure Resources_1
 on: 
     push:
         paths: 
